@@ -139,8 +139,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact
 
 **Bhuvanesh Reddy**
-- GitHub: [@Bhuvaneshreddy12](https://github.com/Bhuvaneshreddy12)
-- Project Link: [https://github.com/Bhuvaneshreddy12/chef-claude](https://github.com/Bhuvaneshreddy12/chef-claude)
+- GitHub: https://github.com/tejavardhan49
+- Project Link: https://github.com/tejavardhan49/CHEF-CLAUDE
 
 ## 🔮 Future Enhancements
 
@@ -153,4 +153,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Recipe rating and reviews
 - [ ] Meal planning integration
 
-Made with ❤️ by [Bhuvanesh Reddy](https://github.com/Bhuvaneshreddy12)
+
